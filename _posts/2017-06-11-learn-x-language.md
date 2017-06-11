@@ -1,9 +1,9 @@
 ---
 layout: post
 title: PROJECT: Learn X Language
-description: " community submitted places to learn x programming language "
+description: "community submitted lists of places to learn x programming language"
 tags:
   - project
-comments: false
+comments: true
 link: 'http://www.learnxlanguage.com/'
 ---
