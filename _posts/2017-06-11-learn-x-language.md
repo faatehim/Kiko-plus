@@ -1,9 +1,9 @@
 ---
 layout: post
-title: PROJECT: Learn X Language
-description: "community submitted lists of places to learn x programming language"
+title: Learn X Language
+description: "This theme supports link posts, made famous by John Gruber. To use, just add `link: http://url-you-want-linked` to the post's YAML front matter and you're done."
 tags:
   - project
 comments: true
-link: 'http://www.learnxlanguage.com/'
+link: 'http://www.learnxlanguage.com'
 ---
