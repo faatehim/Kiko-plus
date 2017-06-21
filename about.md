@@ -3,11 +3,9 @@ title: About
 permalink: /about/
 ---
 
-Web developer and designer
-
-Language of Preference: Ruby 
-
-Framework of Preference: Rails
+Fourteen
+Boston
+Rails
 
 Projects I have Made:
 
