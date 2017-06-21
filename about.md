@@ -3,8 +3,8 @@ title: About
 permalink: /about/
 ---
 
-Fourteen
-Boston
+Fourteen <br>
+Boston <br>
 Rails
 
 Projects I have Made:
