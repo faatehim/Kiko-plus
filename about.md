@@ -3,9 +3,9 @@ title: About
 permalink: /about/
 ---
 
-Fourteen <br>
-Boston <br>
-Rails
+Hi, I'm Faateh.<br>
+I am a programmer that specializes in copying and pasting.<br>
+I work in Ruby/Rails but am transitioning to Javascript
 
 Projects I have Made:
 
