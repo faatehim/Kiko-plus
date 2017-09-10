@@ -3,16 +3,18 @@ title: About
 permalink: /about/
 ---
 
-Hi, I'm Faateh.<br>
-I am a programmer that specializes in copying and pasting.<br>
-I work in Ruby/Rails but am transitioning to Javascript
+Hi, I'm Faateh.
 
-Projects I have Made:
+programmer building the future
+
+Ruby/Rails + Javascript
+
+Projects:
 
 - [Learn x Language](http://www.learnxlanguage.com/) - community submitted lists of places to learn x programming language
 
+- Explain Me Please: COMING SOON!
 
-What I am doing now:
+- Liberty Bot: COMING SOON!
 
-- learning about bitcoin/cryptocurrencies/blockchain <br>
-- building a chatbot
+
