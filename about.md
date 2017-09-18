@@ -11,10 +11,12 @@ Ruby/Rails + Javascript
 
 Projects:
 
-- [Learn x Language](http://www.learnxlanguage.com/) - community submitted lists of places to learn x programming language
+- [Learn X Language](http://www.learnxlanguage.com/) - community submitted lists of places to learn x programming language
 
-- Explain Me Please: COMING SOON!
+- Explain Me Please: COMING SOON! 
 
-- Liberty Bot: COMING SOON!
+- Liberty Bot: COMING SOON! (October 2017)
+
+- Crypto 101
 
 
