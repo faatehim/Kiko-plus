@@ -17,7 +17,7 @@ Projects:
 
 - Liberty Bot: COMING SOON! (Q4 2017)
 
-- Pegasus (March 2017)
+- Pegasus (March 2018)
 
 - Scheduler (Q4 2017 / Q1 2018)
 
