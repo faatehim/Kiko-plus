@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Computer Science For Kids
-description: "course I made in 5th grade that teaches basics of programming to kids/beginenrs"
+description: "course I made in 5th grade that teaches basics of programming to kids/beginners"
 tags:
   - project
   - course
